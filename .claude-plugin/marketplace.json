@@ -1,0 +1,21 @@
+{
+  "name": "mysterio-dev-tools",
+  "owner": {
+    "name": "Mysterio"
+  },
+  "metadata": {
+    "description": "Internal Claude Code marketplace for reusable engineering agents and workflows."
+  },
+  "plugins": [
+    {
+      "name": "agent-framework",
+      "source": "./plugins/agent-framework",
+      "description": "Opus reviewer, Sonnet developer, Haiku explorer/test runner, plus workflow and emulator-free E2E skills.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mysterio"
+      },
+      "category": "development"
+    }
+  ]
+}

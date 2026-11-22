@@ -1,0 +1,9 @@
+{
+  "name": "agent-framework",
+  "version": "1.0.0",
+  "description": "Reusable multi-agent engineering workflow: Opus reviews, Sonnet implements, Haiku explores and runs checks.",
+  "author": {
+    "name": "Mysterio"
+  },
+  "license": "MIT"
+}
